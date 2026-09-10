@@ -1,2 +1,0 @@
-IMPORTANTE: la Edge Function upload-video debe devolver también una URL firmada si quieres usar QR.
-La subida ya está preparada en la web, pero el QR se añadirá en la siguiente fase de pruebas.
