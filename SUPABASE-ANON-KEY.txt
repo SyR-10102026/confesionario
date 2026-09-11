@@ -1,0 +1,1 @@
+Publishable key ya configurada en app.js. No introducir ninguna Secret key en la web.
